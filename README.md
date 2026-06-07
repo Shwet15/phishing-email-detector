@@ -53,3 +53,14 @@ phishing-detector/
 
 ## 👩‍💻 Author
 Shweta — B.Tech Student | Cybersecurity Enthusiast
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/screenshot1.png)
+
+### Phishing Email Detected
+![Phishing Detected](screenshots/screenshot2.png)
+
+### Legitimate Email
+![Legitimate Email](screenshots/screenshot3.png)
