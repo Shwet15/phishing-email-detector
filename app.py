@@ -2,8 +2,14 @@ from flask import Flask, render_template, request
 import pickle
 import re
 import nltk
-from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
+import os
+
+# Download NLTK data automatically on server
+nltk.download('stopwords', quiet=True)
+nltk.download('punkt', quiet=True)
+
+from nltk.corpus import stopwords
 
 app = Flask(__name__)
 
