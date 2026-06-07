@@ -52,4 +52,4 @@ phishing-detector/
 └── app.py
 
 ## 👩‍💻 Author
-Shwet — B.Tech Student | Cybersecurity Enthusiast
+Shweta — B.Tech Student | Cybersecurity Enthusiast
