@@ -5,3 +5,4 @@ flask
 nltk
 matplotlib
 seaborn
+gunicorn
